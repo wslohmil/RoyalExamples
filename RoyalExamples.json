@@ -1,0 +1,77 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "@id": "https://doi.org/10.1098/rspa.2025.0413",
+    "identifier": "10.1098/rspa.2025.0413",
+    "url": "https://royalsocietypublishing.org/rspa/article/482/2336/20250413/481461/On-computing-quantum-waves-exactly-from-classical",
+    "name": "On computing quantum waves exactly from classical action",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Winfried Lohmiller"
+      },
+      {
+        "@type": "Person",
+        "name": "Jean-Jacques Slotine"
+      }
+    ],
+    "datePublished": "2026-04-22",
+    "isPartOf": {
+      "@type": "Periodical",
+      "name": "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+    },
+    "description": "Establishes the exact computation of quantum waves entirely from classical least action and its associated classical density, providing analytical proofs that the Bohm quantum potential is identically zero across fundamental systems and field equations.",
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Harmonic Oscillator Exact Quantum Wave Construction"
+      },
+      {
+        "@type": "Thing",
+        "name": "Double Slit Diffraction Exact Wave Function"
+      },
+      {
+        "@type": "Thing",
+        "name": "Aharonov-Bohm Effect Classical Action Derivation"
+      },
+      {
+        "@type": "Thing",
+        "name": "Potential Well Exact Solutions"
+      },
+      {
+        "@type": "Thing",
+        "name": "Quantum Tunneling Exact Classical Computation"
+      },
+      {
+        "@type": "Thing",
+        "name": "Quantum Spin Exact Analytical Mapping"
+      },
+      {
+        "@type": "Thing",
+        "name": "Einstein-Podolsky-Rosen (EPR) Paradox Wave Construction"
+      },
+      {
+        "@type": "Thing",
+        "name": "Quantum Electrodynamics (QED) Semiclassical Exact Equivalences"
+      },
+      {
+        "@type": "Thing",
+        "name": "Exact Derivation of the Pauli Equation from Classical Action"
+      },
+      {
+        "@type": "Thing",
+        "name": "Exact Derivation of the Dirac Equation from Classical Action"
+      },
+      {
+        "@type": "Thing",
+        "name": "Exact Derivation of the Maxwell Equations from Classical Action"
+      },
+      {
+        "@type": "Thing",
+        "name": "Vanishing Bohm-Madelung Quantum Potential Proof"
+      }
+    ],
+    "educationalUse": "Provides explicit analytical proofs that the proposed physical density eliminates the need for an active Bohm quantum potential in fundamental quantum and classical physics milestones."
+  }
+] 
